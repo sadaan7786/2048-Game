@@ -22,6 +22,7 @@ C++
 g++ 2048game.cpp -o 2048game
 .\2048game
 ```
+Or simply run in any code editor (Vscode, Dev c++)
 
 ## Controls
 
